@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-source ./env_config
+source ./.env
 
 
 echo "[+] Runnning docker env:"
